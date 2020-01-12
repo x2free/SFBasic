@@ -1,0 +1,6 @@
+C:\Projects\SFAPI\SFApiConsoleApp1\bin\Debug\SFApiConsoleApp1.exe.config
+C:\Projects\SFAPI\SFApiConsoleApp1\bin\Debug\SFApiConsoleApp1.exe
+C:\Projects\SFAPI\SFApiConsoleApp1\bin\Debug\SFApiConsoleApp1.pdb
+C:\Projects\SFAPI\SFApiConsoleApp1\obj\Debug\SFApiConsoleApp1.exe
+C:\Projects\SFAPI\SFApiConsoleApp1\obj\Debug\SFApiConsoleApp1.pdb
+C:\Projects\SFAPI\SFApiConsoleApp1\obj\Debug\SFApiConsoleApp1.csprojResolveAssemblyReference.cache
